@@ -14,6 +14,8 @@ Train model with CLI using trainer_config.yaml found in configs/
 # Results
 [Adapted it to play pong](https://github.com/elmojesus/robot-arm-pong)
 
+[Demo](https://youtu.be/-WaiAsnxeas)
+
 ![Ball](Unity-Ball.gif)
 ![BallClose](Unity-BallClose.gif)
 ![controller](supercoolvideo.gif)
