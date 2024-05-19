@@ -16,8 +16,8 @@ Train model with CLI using trainer_config.yaml found in configs/
 
 [Demo](https://youtu.be/-WaiAsnxeas)
 
+![controller](supercoolvideo.gif)
 ![Ball](Unity-Ball.gif)
 ![BallClose](Unity-BallClose.gif)
-![controller](supercoolvideo.gif)
 
 [Inspiration, and servo rig design from littlefrenchkev. All code is original](https://www.littlefrenchkev.com/xbox-controller-arm)
